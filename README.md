@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hammed Quyum
+- 👋 Hi, 
 - 👀 I’m interested in smart tech system, embedded system and IOT DEVELOPMENT
 - 💞️ I’m looking to collaborate on any smart tech system
 - 📫 How to reach me quyumhammed1@gmail.com
