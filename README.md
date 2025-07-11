@@ -1,4 +1,4 @@
-👋 Hi, I'm Hammed  - IoT,Embedded Systems and  Developer Advocate 
+👋 Hi, I'm Quyum - IoT,Embedded Systems and  Developer Advocate 
 
 💡 About Me
 I'm passionate about solving real-world problems with IoT, embedded systems, and offline payment technologies. I focus on smarts systems, smart energy monitors, and community developer events.
